@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "@nestjs/cli": "^10.4.5",
+    "@nestjs/mapped-types": "*",
+    "@nestjs/typeorm": "^10.0.2",
+    "g": "^2.0.1",
+    "typeorm": "^0.3.20"
+  }
+}
